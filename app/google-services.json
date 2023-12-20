@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "123635172100",
+    "project_id": "notesapp-189f4",
+    "storage_bucket": "notesapp-189f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123635172100:android:0c6515f041800b7d444651",
+        "android_client_info": {
+          "package_name": "tr.edu.mu.notes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx_zsGpFm4lYt-5Bin9ZsXLJZGDefa9CA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
